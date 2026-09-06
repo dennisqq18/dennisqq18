@@ -1,16 +1,21 @@
-## Hi there 👋
+Salut, sunt Chita Denis-Andrei 👋
 
-<!--
-**dennisqq18/dennisqq18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sunt Front-End Developer și în prezent îmi dezvolt și îmi îmbunătățesc abilitățile.
 
-Here are some ideas to get you started:
+💻 Tehnologii
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+🚀 La ce lucrez în prezent
+
+Lucrez la proiecte front-end realizate în cadrul cursului.
+
+📫 Contact
+
+* LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
+
+
