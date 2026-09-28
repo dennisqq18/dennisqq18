@@ -17,5 +17,6 @@ Lucrez la proiecte front-end realizate în cadrul cursului.
 📫 Contact
 
 * LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
+* Gmail: andreidenis128chita@gmail.com
 
 
