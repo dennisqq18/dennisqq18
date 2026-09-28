@@ -9,6 +9,7 @@ Sunt Front-End Developer și în prezent îmi dezvolt și îmi îmbunătățesc 
 * JavaScript
 * Git
 * GitHub
+* React/React Native
 
 🚀 La ce lucrez în prezent
 
