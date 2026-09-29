@@ -18,6 +18,6 @@ I'm working on front-end projects developed as part of my course.
 * 📫 Contact
 
 - LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
-- Gmail: andreidenis128chita@gmail.com
+- Gmail: veyxii22@gmail.com
 
 
