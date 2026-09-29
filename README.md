@@ -1,23 +1,23 @@
-Salut, sunt Chita Denis-Andrei 👋
+Hi, I'm Chita Denis-Andrei 👋
 
-Sunt Front-End Developer și în prezent îmi dezvolt și îmi îmbunătățesc abilitățile.
+I'm a Front-End Developer from Romania, and I'm currently developing and improving my skills. I can also communicate in English as my second language.
 
-💻 Tehnologii
+* 💻 Technologies
 
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
-* React/React Native
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- React/React Native
 
-🚀 La ce lucrez în prezent
+🚀 What I'm currently working on
 
-Lucrez la proiecte front-end realizate în cadrul cursului.
+I'm working on front-end projects developed as part of my course.
 
-📫 Contact
+* 📫 Contact
 
-* LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
-* Gmail: andreidenis128chita@gmail.com
+- LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
+- Gmail: andreidenis128chita@gmail.com
 
 
