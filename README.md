@@ -13,7 +13,7 @@ I'm a Front-End Developer from Romania, and I'm currently developing and improvi
 
 🚀 What I'm currently working on
 
-I'm working on front-end projects developed as part of my course.
+I'm working on frontend projects developed as part of my course.
 
 * 📫 Contact
 
