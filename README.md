@@ -17,7 +17,7 @@ I'm working on front-end projects developed as part of my course.
 
 * 📫 Contact
 
-- LinkedIn: linkedin.com/in/chita-denis-andrei-4a9b36300
+- LinkedIn: https://www.linkedin.com/in/chita-denis-andrei-4a9b36300
 - Gmail: veyxii22@gmail.com
 
 
